@@ -1,0 +1,14 @@
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.exe
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.deps.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.runtimeconfig.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.runtimeconfig.dev.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\bin\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.pdb
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\obj\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.csprojAssemblyReference.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\obj\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.csproj.CoreCompileInputs.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\obj\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.AssemblyInfoInputs.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\obj\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.AssemblyInfo.cs
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\obj\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\espiral-gtesistemas\obj\release\netcoreapp2.1\win10-x64\espiral-gtesistemas.pdb
